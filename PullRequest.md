@@ -5,3 +5,5 @@
 Jennifer Metz - https://github.com/mhende18/dreikaesehoch_Story/pull/5
 
 Sumbal Khan - https://github.com/olipunov/sauerkraut/pull/4
+
+Batbold Altansukh - https://github.com/olipunov/sauerkraut/pull/5
