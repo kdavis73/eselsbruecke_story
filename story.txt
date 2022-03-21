@@ -14,5 +14,13 @@ When he went back to his car to door was schloss.
 
 While standing by the car, he decided to get some beer from the Biergarten.
 
+<<<<<<< HEAD
 Test 2
 Test 3
+=======
+On the way to Biergarten, he saw Mehlhase in Baeckeret and he decided to buy it. 
+
+He bought the Mehlhase and on he wanted to got some Gebaeck and Apfelkuchen.
+
+Tired from the day and all the carbs, Tobias decided to grab a bratwurst.
+>>>>>>> 0b665931841d43759995070ab1a2a714bf87e1cc
